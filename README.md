@@ -1,1 +1,1 @@
-# my-anime-scheduler
+Scheduler application which allows the users to create a list of shows they intend to watch and will send notifications when a new episode airs. Will use the jikan.moe API and will be written in React.js. Intended as an educational and showcase project rather than a serious product. 
